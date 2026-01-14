@@ -1,3 +1,5 @@
+*note v1.1 allows export to descenders but is semi broken, also requires you to put the editor file into Assets/Editor/ <br><br><br><br>
+
 put SkiLiftTower.cs into Assets/<br>
 create a new empty object and name it SkiLift<br>
 drag SkiLiftTower.cs onto that SkyLift object and define the fields.<br><br>
