@@ -1,4 +1,7 @@
-*note v1.1 allows export to descenders but is semi broken, also requires you to put the editor file into Assets/Editor/ <br><br><br><br>
+*note v1.1 allows export to descenders but is semi broken, also requires you to put the editor file into Assets/Editor/ <br>
+*note v2 is a full controlled script, put SkiLiftGenerator.cs into Assets/Editor.  put SkiLiftController.cs into Assets/<br>
+*Assign SkiLiftController.cs to your generated Ski Lift Object so you can define animation.<br>
+Cable renderer is the generated cable object, Chairs parent would be the SkiLift object<br><br><br>
 
 put SkiLiftTower.cs into Assets/<br>
 create a new empty object and name it SkiLift<br>
