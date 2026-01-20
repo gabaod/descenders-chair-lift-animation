@@ -8,4 +8,7 @@
 2. put SkiLiftController.cs into Assets/<br><br><br>
 
 3. watch this video for a tutorial<br>
+https://youtu.be/aVpzIdOhsOI<br><br><br>
 
+
+original models of chair and skitower were found here https://poly.pizza/
