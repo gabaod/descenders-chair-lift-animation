@@ -11,4 +11,5 @@
 https://youtu.be/aVpzIdOhsOI<br><br><br>
 
 
+The models im using are ski_terminal.fbx, chair1.fbx and skitower.fbx also included a quick gondola.fbx i made in 2 min<br><br>
 original models of chair and skitower were found here https://poly.pizza/
